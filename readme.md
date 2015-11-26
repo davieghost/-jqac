@@ -1,7 +1,7 @@
 ##Accordion Toggle
 ###...an Accordion Plugin for jQuery
 This plugin is meant to be as bare bones as possible, for the smallest possible footprint. You can use it for whatever you like, attribute me or not.
-####*Recomended useage:*
+####*Recomended usage:*
 
 ```
 var triggeringElement = $('.chosen-classname');
